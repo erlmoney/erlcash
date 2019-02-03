@@ -19,12 +19,13 @@ TODO
 
 | # | Description | Estimated date | Finish date | Status |
 | --- | --- | --- | --- | --- |
-| 1 | Finishing epool - generic pooling library | 1 april 2019 | ? | working |
-| 2 | Implementing basic Blockchain | 1 april 2019 | ? | working |
-| 3 | Implementing basic Merkle tree | 1 april 2019 | ? | working |
-| 4 | Implementing planned hashing algorithm in Erlang | 1 april 2019 | ? | working |
-| 5 | Implementing basic TCP, UDP and HTTPS REST API using mustang | 1 june 2019 | ? | planned |
-| 6 | Writing the ErlCash Whitepaper | 1 august 2019 | ? | working |
+| 1 | Argon2 password hashing for Erlang  | 1 april 2019 | 3 February 2019 | DONE |
+| 2 | Finishing epool - generic pooling library | 1 april 2019 | ? | working |
+| 3 | Implementing basic Blockchain | 1 april 2019 | ? | working |
+| 4 | Implementing basic Merkle tree | 1 april 2019 | ? | working |
+| 5 | Implementing planned hashing algorithm in Erlang | 1 april 2019 | ? | working |
+| 6 | Implementing basic TCP, UDP and HTTPS REST API using mustang | 1 june 2019 | ? | planned |
+| 7 | Writing the ErlCash Whitepaper | 1 august 2019 | ? | working |
 
 More will be added soon on todo list.
 
