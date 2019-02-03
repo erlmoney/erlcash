@@ -7,14 +7,6 @@ ErlCash is a **cryptocurrency** with a focus on **privacy**, **performance**, **
 
 ErlCash is written from **scratch** in Erlang. Erlcash is NOT another shitcoin but a genuine effort to create a new cryptocurrency.
 
-## Quick ErlCash features
-
-TODO
-
-## Motivation
-
-TODO
-
 ## Project roadmap
 
 | # | Description | Estimated date | Finish date | Status |
@@ -31,15 +23,15 @@ More will be added soon on todo list.
 
 ## Erlang versions supported
 
-Epool officially supports OTP release 17 and later.
+ErlCash officially supports OTP release 17 and later.
 
-Development of Epool takes place using a OTP 19.3 release and tests are done on:
+Development of ErlCash takes place using a OTP 19.3 release and tests are done on:
 - 17.5
 - 18.3
 - 19.3
 - 20.0
 
-Unofficially you may be able to use Epool with older Erlang versions. No guarantee included.
+Unofficially you may be able to use ErlCash with older Erlang versions. No guarantee included.
 
 ## Dependencies
 
