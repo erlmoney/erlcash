@@ -1,27 +1,32 @@
-# epool
-Erlcash - Massively scalable cryptocurency written in Erlang
+# erlcash
+ErlCash - Massively scalable cryptocurency written in Erlang
 
 [![Build Status](https://api.travis-ci.org/ergenius/erlcash.svg?branch=master)](https://travis-ci.org/ergenius/erlcach)
 
 ErlCash is an **insanely documented** **cryptocurrency** with a focus on **privacy**, **performance**, **extensibility** and **functionality**.
 
-ErlCash is written from **scratch** in Erlang. Erlcash is NOT another shitcoin but a genuine effort to create a genuine original cryptocurrency.
+ErlCash is written from **scratch** in Erlang. Erlcash is NOT another shitcoin but a genuine effort to create a new cryptocurrency.
 
 ## Quick ErlCash features
 
-| # | |  |  | |
-| --- | --- | --- | --- | --- |
-| 1 |  | | | |
-
+TODO
 
 ## Motivation
 
-That's why I decided to **insanely** document the code so that any Erlang beginner can understand it.
+TODO
 
 ## Project roadmap
 
-1. Continuously fix bugs and tune performance.
-2. Write more testing units.
+| # | Description | Estimated date | Finish date | Status |
+| --- | --- | --- | --- | --- |
+| 1 | Finishing epool - generic pooling library | 1 april 2019 | ? | working |
+| 2 | Implementing basic Blockchain | 1 april 2019 | ? | working |
+| 3 | Implementing basic Merkle tree | 1 april 2019 | ? | working |
+| 4 | Implementing planned hashing algorithm in Erlang | 1 april 2019 | ? | working |
+| 5 | Implementing basic TCP, UDP and HTTPS REST API using mustang | 1 june 2019 | ? | planned |
+| 6 | Writing the ErlCash Whitepaper | 1 august 2019 | ? | working |
+
+More will be added soon on todo list.
 
 ## Erlang versions supported
 
@@ -37,11 +42,12 @@ Unofficially you may be able to use Epool with older Erlang versions. No guarant
 
 ## Dependencies
 
-I didn't like to have any project dependencies that can easily introduce versioning conflicts in bigger applications that use the same dependencies. Epool uses only standard OTP, no other application is needed and will ever be.
+- Epool - Generic pooling library for Erlang - https://github.com/ergenius/epool
+- Mustang - Http stack
 
 ## Authors
 
-- Madalin Grigore-Enescu (ergenius) <os@ergenius.com>
+- Madalin Grigore-Enescu (ergenius) <github@ergenius.com>
 
 ## License
 
