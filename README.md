@@ -11,8 +11,8 @@ ErlCash is written from **scratch** in Erlang. Erlcash is NOT another shitcoin b
 
 | # | Description | Estimated date | Finish date | Status |
 | --- | --- | --- | --- | --- |
-| 1 | Argon2 password hashing for Erlang https://github.com/ergenius/eargon2 | na | 3 February 2019 | DONE |
-| 2 | Finishing epool - generic pooling library https://github.com/ergenius/epool | 1 april 2019 | ? | working |
+| 1 | Argon2 password hashing for Erlang https://github.com/ergenius/eargon2 | na | na | DONE |
+| 2 | Finishing epool - generic pooling library https://github.com/ergenius/epool | na | na | DONE |
 | 3 | Implementing basic Blockchain | 1 april 2019 | ? | working |
 | 4 | Implementing basic Merkle tree | 1 april 2019 | ? | working |
 | 5 | Implementing planned hashing algorithm in Erlang | 1 april 2019 | ? | working |
