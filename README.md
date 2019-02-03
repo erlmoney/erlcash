@@ -3,7 +3,7 @@ ErlCash - Massively scalable cryptocurency written in Erlang
 
 [![Build Status](https://api.travis-ci.org/ergenius/erlcash.svg?branch=master)](https://travis-ci.org/ergenius/erlcach)
 
-ErlCash is an **insanely documented** **cryptocurrency** with a focus on **privacy**, **performance**, **extensibility** and **functionality**.
+ErlCash is a **cryptocurrency** with a focus on **privacy**, **performance**, **extensibility** and **functionality**.
 
 ErlCash is written from **scratch** in Erlang. Erlcash is NOT another shitcoin but a genuine effort to create a new cryptocurrency.
 
