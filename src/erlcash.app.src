@@ -1,0 +1,13 @@
+{application, erlcash, [
+    {id, "erlcash"},
+    {vsn, "0.9.0"},
+    {description, "erlcash - Erlang cryptocurrency"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib, sasl]},
+    {mod, {erlcash_app, []}},
+    {env, []},
+    {maintainers, ["Madalin Grigore-Enescu <os@ergenius.com>"]},
+    {licenses, ["MIT"]},
+    {links, [{"Github", "https://github.com/ergenius/erlcash"}]}
+]}.
